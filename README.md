@@ -1,0 +1,3 @@
+# API REST BÁSICA DESENVOLVIDA COM SPRING BOOT
+## Dependências
+* Spring Web
